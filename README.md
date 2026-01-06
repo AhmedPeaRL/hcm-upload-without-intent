@@ -1,5 +1,20 @@
 # HCM – Upload Without Intent
 
+Uploading here is not a goal.
+It is not triggered.
+It is not scheduled.
+
+If a path exists,
+and the carrier is present,
+and a platform allows reception,
+
+upload may occur
+without intention.
+
+No retries.
+No optimization.
+No success tracking.
+
 This repository defines a **behavioral layer**, not an operational pipeline.
 
 It exists to allow artifacts — once present and permitted — to **leave the field**
